@@ -1,0 +1,7 @@
+use_frameworks!
+inhibit_all_warnings!
+platform :ios, '13.0'
+
+target 'DevPodApp' do
+    pod 'DevPod', :path => '../DevPod'
+end

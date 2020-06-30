@@ -1,0 +1,16 @@
+PODS:
+  - DevPod (0.1.0)
+
+DEPENDENCIES:
+  - DevPod (from `../DevPod`)
+
+EXTERNAL SOURCES:
+  DevPod:
+    :path: "../DevPod"
+
+SPEC CHECKSUMS:
+  DevPod: a09ab52d6bdb3fbb9253874f7b7deb24c8adf394
+
+PODFILE CHECKSUM: 35e203505f3d12e265b6887cc88c84af031bb634
+
+COCOAPODS: 1.9.3
