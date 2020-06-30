@@ -1,0 +1,8 @@
+xcuserdata/
+xcshareddata/
+*.swp
+.Trashes
+*~.nib
+Pods/
+fastlane/report.xml
+testflight.sh
